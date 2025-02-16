@@ -7,4 +7,4 @@
 
 [Тестовые примеры через Qase](https://github.com/Goshko07/api/blob/main/G9-2025-01-19.pdf)
 
-[Коллекция для тестирвоания SOAP-сервис в Postman](https://www.postman.com/team8bridge/workspace/demoshopping/collection/39325249-b73bccf4-b8ce-4bb8-a4ec-99bc47391228?action=share&creator=39325249&active-environment=39325249-86f9206f-944c-4121-a3f5-5751b1d4659f)
+[Коллекция для тестирования SOAP-сервиса в Postman](https://www.postman.com/team8bridge/workspace/demoshopping/collection/39325249-b73bccf4-b8ce-4bb8-a4ec-99bc47391228?action=share&creator=39325249&active-environment=39325249-86f9206f-944c-4121-a3f5-5751b1d4659f)
