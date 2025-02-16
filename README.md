@@ -1,5 +1,5 @@
 # Тестирование API
-В рамках домашнего задания мною были созданы коллекция в Postman для "Интернет-магазин" https://qa.demoshopping.ru/ на основании документации [Swagger](https://qa.demoshopping.ru/api-docs/), автотесты и добавлена генерация данных. Также написаны текст-кейсы для тестирования  методов (GET, POST, PUT, PATCH, DELETE) в Swagger. Дополнительно протестирован SOAP-сервис
+В рамках домашнего задания мною были созданы коллекция в Postman для "Интернет-магазин" https://qa.demoshopping.ru/ на основании документации [Swagger](https://qa.demoshopping.ru/api-docs/), автотесты и добавлена генерация данных. Также написаны текст-кейсы для тестирования  методов (GET, POST, PUT, PATCH, DELETE). Дополнительно протестирован SOAP-сервис
 
 [Коллекция в Postman](https://www.postman.com/team8bridge/workspace/demoshopping/request/39325249-0534e5a1-4464-4bec-9cc9-65527869d1fe?action=share&creator=39325249&ctx=documentation&active-environment=39325249-86f9206f-944c-4121-a3f5-5751b1d4659f)
 
